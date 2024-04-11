@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/go-telegram/bot/models"
+	"github.com/drrainlab/telegram-bot/models"
 )
 
 type customMarshal interface {
